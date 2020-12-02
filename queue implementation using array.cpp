@@ -1,3 +1,4 @@
+/* queue is implemented with array when we have size of array is known and queue size is small*/
 #include<iostream>
 #define max 10
 using namespace std;
